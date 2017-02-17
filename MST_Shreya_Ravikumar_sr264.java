@@ -4,8 +4,7 @@
 Analysis of Algorithms - CSE 531
 Project 1 - Implementing Heap DS and Finding MST using Prim's Algorithm
 Name : Shreya Ravikumar
-UBIT Person Number : 5020 5664
-UBIT Name : sr264@buffalo.edu
+UBIT ID : sr264@buffalo.edu
 */
 import java.io.BufferedReader;
 import java.io.File;
